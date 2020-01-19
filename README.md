@@ -14,7 +14,7 @@ authors = ["SyedHussainAhmed121 <shas_virgo121@yahoo.com>"]
 edition = "2018"
 
 [dependencies]
-library_crate = "0.1.1"
+library_crate = "0.1.0"
 ```
 
 In `src/main.rs` you can use like this:
