@@ -1,0 +1,13 @@
+[package]
+name = "library_crate"
+version = "0.1.0"
+authors = ["SyedHussainAhmed121 <shas_virgo121@yahoo.com>"]
+edition = "2018"
+repository = "https://github.com/SyedHussain1988/Test_Crates"
+homepage = "https://github.com/SyedHussain1988/Test_Crates"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "First Welcome Library Crate "
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
