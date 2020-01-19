@@ -1,10 +1,10 @@
 [package]
 name = "library_crate"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["SyedHussainAhmed121 <shas_virgo121@yahoo.com>"]
 edition = "2018"
-repository = "https://github.com/SyedHussain1988/Test_Crates"
-homepage = "https://github.com/SyedHussain1988/Test_Crates"
+repository = "https://github.com/SyedHussain1988/library_crate"
+homepage = "https://github.com/SyedHussain1988/library_crate.git"
 license = "MIT/Apache-2.0"
 readme = "README.md"
 description = "First Welcome Library Crate "
